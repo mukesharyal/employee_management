@@ -10,7 +10,7 @@ A simple yet functional **Employee Management System** written in C that simulat
 - 🧑‍💼 **Hierarchical structure** including Managers, Team Leads, and Workers
 - 📋 **Task assignment and tracking**
 - ✅ **Task completion flagging**
-- 🔐 Role-based permissions for actions (e.g., only managers can assign tasks)
+- 🔐 **Role-based permissions** for actions (e.g., only managers can assign tasks)
 
 ---
 
